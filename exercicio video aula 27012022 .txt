@@ -1,0 +1,11 @@
+Percorrer do 0 até o número de alunos
+
+Verificar se o numero do aluno é par:
+       Verdadeiro: Escrever na tela o numero e PAR
+
+
+Verificar se o numero do aluno é ímpar:
+       Verdadeiro: Escrever na tela o numero e ÍMPAR
+
+Verificar se o numero é 0
+       Verdadeiro: Escrever na tela ZERO
